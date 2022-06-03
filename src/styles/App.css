@@ -1,0 +1,14 @@
+.App{
+  width: 100vh;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+margin: 0;
+padding: 0;
+}
